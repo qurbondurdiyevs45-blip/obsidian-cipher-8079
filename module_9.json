@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-cipher-8079",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 3852,
+    "createdAt": "2026-07-11T15:02:00.188Z"
+  }
+}
